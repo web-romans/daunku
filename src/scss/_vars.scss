@@ -1,0 +1,19 @@
+:root {
+  // base
+  --font-family: "WorkSans", sans-serif;
+  --content-width: 1488px;
+  --container-offset: 16px;
+  --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
+
+  // colors
+  --color-bg: #ffffff;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-dark: #081323;
+  --color-yellow: #f2c94c;
+
+  //sizes
+  --burger-width: 30px;
+  --burger-height: 26px;
+  --burger-line-height: 3px;
+}
